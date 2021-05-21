@@ -1,6 +1,6 @@
 /**
  
-Write an algorithm to settle the following question: A bank account starts out with
+R13: Write an algorithm to settle the following question: A bank account starts out with
 $10,000. Interest is compounded monthly at 6 percent per year (0.5 percent per
 month). Every month, $500 is withdrawn to meet college expenses. After how many
 years is the account depleted?
